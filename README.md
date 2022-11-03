@@ -15,6 +15,7 @@
  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
  </div>
   
- 
+ <div align = "center">
  [![*'s github stats](https://github-readme-stats.vercel.app/api?username=bluemindhan)](https://github.com/bluemindhan)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemindhan&layout=compact)](https://github.com/bluemindhan/github-readme-stats)
+ </div>
