@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=bluemind&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text="개발자가 되기 위한 여정중"&fontSize=70" />
 
-<h4 align ="center">📚Introduction>📚<h4>
+<h4 align ="center">📚Introduction📚<h4>
  
  <h6 align = "center">안녕하세요! 현재 백엔드, 프론트 엔드 공부중입니다</h6>
  
